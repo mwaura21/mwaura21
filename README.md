@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Daniel Mwaura
--  
-- 
-- 👸🏿 Hobbies: Gaming with the boys and drawing in my free time
-
 ### Hi there 👋
 * 👂 My name is Daniel Mwaura
 * 👀 I’m interested in website devlopment and connecting with other developers
