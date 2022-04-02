@@ -1,4 +1,6 @@
-### Hi there 👋
+<p style="font-size: x-large">Hello, welcome to my GitHub!👋</p>
+
+
 * 👂 My name is Daniel Mwaura
 * 👀 I’m interested in website devlopment and connecting with other developers
 * 🌱 I’m currently learning python, starting off actually
@@ -18,7 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mwaura21&show_icons=true&theme=outrun"/>
 
-📈 Most used languages
+:thinking: Most used languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaura21&layout=compact&theme=outrun"/>
 
+:smirk: Alittle something to keep you smiling 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
