@@ -15,11 +15,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 📈 GitHub stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=mwaura21&show_icons=true&theme=outrun"/>
 
 📈 Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaura21&layout=compact"/>
 
-📈 GitHub repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mwaura21&repo=
-Food-Ordering-System"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaura21&layout=compact&theme=outrun"/>
+
