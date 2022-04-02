@@ -1,6 +1,6 @@
 ![](https://github.com/mwaura21/mwaura21/blob/master/game.gif)
 
-## Hello, welcome to my GitHub!👋
+## Heyy, welcome!👋
 
 <p>
 <a href="mwauradaniel80@gmail.com">
