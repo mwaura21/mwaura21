@@ -1,4 +1,4 @@
-![](https://github.com/mwaura21/gaming-gif.gif)
+![](https://github.com/mwaura21/mwaura21/blob/master/gaming-gif.gif)
 
 ## Hello, welcome to my GitHub!👋
 
