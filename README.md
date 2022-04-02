@@ -2,6 +2,19 @@
 
 ## Hello, welcome to my GitHub!👋
 
+<p>
+<a href="mwauradaniel80@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"></img>
+<a>
+  
+<a href="https://www.linkedin.com/in/daniel-mwaura-1a38641ab/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"></img>
+<a>
+  
+<a href="mwaura_daniel">
+  <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=black"></img>
+<a>
+</p>  
 
 * 👂 My name is Daniel Mwaura
 * 👀 I’m interested in website devlopment and connecting with other developers
