@@ -1,4 +1,6 @@
-<p style="font-size: x-large">Hello, welcome to my GitHub!👋</p>
+![](https://tenor.com/view/gaming-gif-gif-19995452)
+
+## Hello, welcome to my GitHub!👋
 
 
 * 👂 My name is Daniel Mwaura
