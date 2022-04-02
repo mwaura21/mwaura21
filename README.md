@@ -1,4 +1,4 @@
-![](https://tenor.com/view/gaming-gif-gif-19995452)
+![](https://github.com/mwaura21/gaming-gif.gif)
 
 ## Hello, welcome to my GitHub!👋
 
