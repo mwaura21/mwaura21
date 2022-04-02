@@ -18,7 +18,7 @@
 
 * 👂 My name is Daniel Mwaura
 * 👀 I’m interested in website devlopment and connecting with other developers
-* 🌱 I’m currently learning python, starting off actually
+* 🌱 I’m currently learning python, starting off actually and proficient in PHP
 * 🤝 I’m looking to collaborate on any project to get experience
 * 🤔 I’m looking for help with anything python
 * 💬 Ask me about anything really, Laravel would be ideal
